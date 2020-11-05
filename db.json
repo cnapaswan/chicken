@@ -1,1 +1,7 @@
-{ "itworks": "but hooroo data was too big anyway" }
+{
+  "itworks": [
+    {
+      "lol": true
+    }
+  ]
+}
